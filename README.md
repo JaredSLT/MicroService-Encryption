@@ -1,0 +1,1 @@
+This microservice hashes text and files
